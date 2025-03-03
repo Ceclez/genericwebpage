@@ -1,0 +1,26 @@
+@media (max-width: 769px) {
+  main {
+    padding: 0 10% 4rem 10%;
+  }
+} 
+@media (max-width: 548px) {
+  aside {
+    width: 40rem ;
+  }
+}
+@media (max-width: 376px) {
+    main {
+        padding: 0 5% 4rem 5% ;
+    }
+    header ul {
+        padding: 1rem 5px ;
+    }
+    aside {
+        width: 100% ;
+    }
+}
+@media (max-width: 321px) {
+    aside ul li a {
+        gap: 10px ;
+    }
+}
